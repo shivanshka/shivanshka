@@ -1,0 +1,15 @@
+### 👋 Hi, I’m Shivansh Kaushal
+- I am a aspiring Data Scientist, looking to make career in the field of AI.
+- I have working experience and interest in:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Processing
+  - MLOps 
+- 🌱 I’m currently exploring Transformers in NLP
+
+
+<!---
+shivanshka/shivanshka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
