@@ -5,7 +5,9 @@
   - Deep Learning
   - Computer Vision
   - Natural Language Processing
-  - MLOps 
+  - MLOps
+  - SQL
+  - Power BI 
 - 🌱 I’m currently exploring Transformers in NLP
 
 
