@@ -1,5 +1,5 @@
-### 👋 Hi, I’m Shivansh Kaushal
-- I am a aspiring Data Scientist, looking to make career in the field of AI.
+### 👋 Hi, I’m _Shivansh Kaushal_
+- I am a aspiring _Data Scientist_, looking to make career in the field of AI.
 - I have working experience and interest in:
   - Machine Learning
   - Deep Learning
